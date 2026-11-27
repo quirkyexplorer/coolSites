@@ -33,6 +33,8 @@ Websites that stand out for aesthetics, layout, interaction, or overall design q
 
 - [Luke Faulkner](https://www.lukefaulkner.com/)  
   Minimal, artistic site showcasing music, visuals, and strong design choices.
+- [StagePeek](https://stagepeek.live/)  
+  Interactive 2D seating maps and custom 3D concert stage-view simulator across 201 global venues with 1x–10x camera zoom.
 ## 🧩 Notes
 - This index is meant to grow over time.
 - Categories can be split further (e.g. `CSS`, `React`, `Data`, `Systems`, `Art`).
